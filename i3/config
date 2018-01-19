@@ -171,5 +171,5 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
 bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
 
 
-exec  feh --bg-center wallpapers/shards_stone_background_light_85542_3840x2160.jpg
+exec  feh --bg-center wallpapers/712437.jpg
 #exec /usr/bin/compton -b -c
