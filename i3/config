@@ -173,3 +173,6 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightne
 
 exec  feh --bg-center wallpapers/712437.jpg
 #exec /usr/bin/compton -b -c
+
+#Switching keyboard layout
+bindsym $mod+Mod1+k exec ~/.config/scripts/keyboard_layout.py next
